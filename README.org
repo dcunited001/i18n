@@ -4,6 +4,8 @@ Some notes on translations. I usually did this in a notebook. Now that I can use
 =ob-translate= to produce translations in multiple languages via google
 translate, it makes more sense to digitize these efforts.
 
+For now, I am focused on French, Japanese, Spanish, and Italian.
+
 ** Motivation behind the process
 
 I don't I watch a lot of tv, but when I do, it's usually anime or netflix with

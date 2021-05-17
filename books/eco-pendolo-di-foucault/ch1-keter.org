@@ -1,0 +1,74 @@
+* Ch 1: Keter
+
+** Fu allora
+
+The first pages were particularly tough to get through for me: not for the
+difficulty of the italian, but for the breadth of etymological connections
+
+#+begin_src translate :src it :dest fr,es,el,ru,ja
+Fu allora che vidi il Pendolo
+#+end_src
+
+#+RESULTS:
+| fr | C'est alors que j'ai vu le Pendule |
+| es | Fue entonces cuando vi el Péndulo  |
+| el | Τότε είδα το εκκρεμές              |
+| ru | Именно тогда я увидел маятник      |
+| ja | 振り子を見たのはその時でした       |
+
+
+** La Sfera
+
+#+begin_src translate :src it :dest fr,es,ja
+La sfera, mobile all'estremità di un lungo filo fissato alla volta del coro.
+#+end_src
+
+#+RESULTS:
+| fr | La sphère, mobile au bout d'un long fil fixé à la voûte du choeur      |
+| es | La esfera, móvil al final de un hilo largo fijado a la bóveda del coro |
+| ja | 合唱団の金庫室に固定された長い糸の端で移動可能な球                     |
+
+
+all this imagery and terminology descends from or depend on \pi and circles:
+
+- from the circle that bounds the motion of the pendulum
+- to the strings (which give rise to resonance/oscialltions
+- to the sinosoidal fluctuations plotted on a polar axis
+
+it was determined to be especially significant to tha author that one could use
+Foucault's Pendulum to deduce the /true shape of the earth/, which IMO is not
+spherical but neoplatonic. by which i mean that the true shapes of things are in
+found their resonance to neoplatnoic forms.
+
++ volta
+  - related to anything that turns (and pretty much everything)
+  - traces back to proto-indo-european. very interesting morpheme
++ filo
+  - thread, it also has other interesting morphological connections mostly
+    unique to italian
++ coro
+  - related to heart, chord. here, it means chorus.
+  - (fr) choeur is also a homonym for coeur (heart, core). a heart beats at a
+    frequency/rhythm.
+  - (it) coro \cong cuore; chorus \cong heart/core
+  - there is a semiotic theme here of images that appear in music
+
+#+begin_src translate :src it :dest fr,es,ja
+descriveva le sue ampie oscillazioni con isocrona maestà.
+#+end_src
+
+#+RESULTS:
+| fr | il décrivit ses larges balançoires avec une majesté isochrone. |
+| es | describió sus amplios columpios con majestad isócrona.         |
+| ja | 彼はその広いスイングを等時性の威厳で説明しました。             |
+
++ isochronus
+  - very interesting morpheme that i've never encountered.
+  - it's adjectival meaning here implies "with temporal symmetry"
++ ampie
+  - another word related to music/sound
+  - it can be related to amplitude, but in italian it has a more general sense.
+    here it's analogous to...
++ oscillazioni
+  - again, another term with technical connotations in english that in italian
+    has a more general sense.
