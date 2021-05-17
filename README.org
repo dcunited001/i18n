@@ -1,0 +1,47 @@
+* Translations
+
+Some notes on translations. I usually did this in a notebook. Now that I can use
+=ob-translate= to produce translations in multiple languages via google
+translate, it makes more sense to digitize these efforts.
+
+** Motivation behind the process
+
+I don't I watch a lot of tv, but when I do, it's usually anime or netflix with
+foreign languages. I have a hard time with verbal comprehension. What I've found
+is that by listening to a language where i have some proficiency and setting the
+subtitles in another language besides english, this prevents a problem where my
+brain will simply short-circuit its workload: i.e. if english audio is
+available, my brain shortcircuits the process of reading translations; if
+english text is available, the subtitles become less salient to my brain.
+
+Neurologically, the brain is always seeking to minimize investment of physical
+energy, generally. Thus, a process that avoids the possibility of a more
+efficient route to arriving at meaning will facilitate the learning process.
+
+** Tools
+
+*** For General Japanese Kanji: Rikaikun
+
++ Rikaikun or [[https://github.com/birtles/rikaichamp][Rikaichamp]]
++ Jisho
+
+*** For Subtitles
+
+It helps to read multiple translations while watching media. Unfortunately, this
+is mostly a pain in the ass. Fortunately, Netflix (and recently Amazon) have
+been making this much easier. Netflix always has a good selection of subs/dubs,
+though not enough Japanese... Fansubs were kind of a pain, since i lack the
+"critical mass" of Kanji required to make this easy.
+
+I tried several different browser extensions, but for now I'll just describe
+what worked. For pretty much any popular streaming source (tested on Netflix),
+the Chrome extension [[https://chrome.google.com/webstore/detail/subadub/jamiekdimmhnnemaaimmdahnahfmfdfk][Subadub]] allows you to simultaneously render two subtitle
+translations while following the audio. Subadub also allows you to simply
+download the subtitle file.
+
+Subtitles always include timestamped info (as well as some presentation
+information for vertially rendered subtitles, etc), so they don't always render
+at the same time. This can be a bit confusing, since subtitles are timed to
+display with whatever the writers want to be on-screen at any given time. Since
+complex grammar doesn't permit every dialogue piece displayed, this creates some
+guesswork.
