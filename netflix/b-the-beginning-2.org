@@ -1,0 +1,184 @@
+#+TITLE: B 13: The Beginning
+#+AUTHOR: David Conner
+#+DESCRIPTION:
+#+PROPERTY:
+#+STARTUP: content
+
+
+* B 13 (season 2)
+
+** Episode 6
+
+*** Se suponía que debía ir un poco más lejos.
+
+#+begin_src translate :src ja :dest fr,es,it :results list
+もう少し いけるはずだったんだけどな。
+やっぱ強度が足りないか。
+#+end_src
+
+#+RESULTS:
+- ("fr" "J'aurais dû pouvoir y aller un peu plus longtemps. N'est-ce pas assez fort?")
+- ("es" "Debería haber podido ir un poco más. ¿No es lo suficientemente fuerte?")
+- ("it" "Avrei dovuto resistere ancora un po '. Non è abbastanza forte?")
+
+#+begin_quote
+mou sukoshii keru hazu dattan da kedo na.
+yappa kyoudo ga tarinai ka
+#+end_quote
+
+
+*** Supongo que solo es cuestión de tiempo
+
+#+begin_quote
+もう時間の問題だな。
+I suppose it's only a matter of time
+#+end_quote
+
+
+*** Cielos, adónde te metiste?
+
+#+begin_src translate :src ja :dest fr,es,it
+もうどこ行ったんだよ。
+#+end_src
+
+#+RESULTS:
+| fr | Où étais-tu?       |
+| es | ¿Dónde has estado? |
+| it | Dove sei stato?    |
+
+**** Vocab:
++ 着信音 (ちゃくしんおん) ringtone
+
+*** Está respirando, pero no abre los ojos.
+
+Su temperatura corporal es muy baja.
+
+#+begin_src translate :src ja :dest fr,es,it
+‪息はしてますが‬目を覚まさないんです。
+#+end_src
+
+#+RESULTS:
+| fr | Je respire, mais je ne me réveille pas. |
+| es | Respiro, pero no me despierto.          |
+| it | Respiro, ma non mi sveglio.             |
+
+#+begin_src translate :src ja :dest fr,es,it
+体温が低すぎる
+#+end_src
+
+#+RESULTS:
+| fr | La température corporelle est trop basse   |
+| es | La temperatura corporal es demasiado baja. |
+| it | La temperatura corporea è troppo bassa     |
+
+
+**** Vocab:
++ 目を覚ます (さます)  (in this case, opening eyes)
++ 体温 (たいおん) body temperature
++ 呼びます (よびます) to call (an ambulance, a hot date)
++ ~すぎる à passer à côté (to pass to the state of [the adj. form])
+
+*** Entendido. Iré enseguida.
+
+#+begin_src translate :src ja :dest fr,es,it,ru,el
+分かった。すぐそっち行く。
+#+end_src
+
+#+RESULTS:
+| fr | Tu as compris. J'y vais bientôt. |
+| es | Lo entiendes. Iré allí pronto.   |
+| it | Hai capito. Ci vado presto.      |
+| ru | Ты понял. Я скоро туда пойду.    |
+| el | Τόπιασες. Θα πάω εκεί σύντομα.   |
+
+#+begin_src translate :src ja :dest fr,es,it,ru,el
+それまでに詳しい状況 教えて。
+#+end_src
+
+#+RESULTS:
+| fr | Veuillez me dire la situation détaillée d'ici là.          |
+| es | Por favor, cuénteme la situación detallada para entonces.  |
+| it | Per favore dimmi la situazione dettagliata per allora.     |
+| ru | Расскажите, пожалуйста, к тому времени подробную ситуацию. |
+| el | Παρακαλώ πείτε μου τη λεπτομερή κατάσταση μέχρι τότε.      |
+
+**** Vocab:
++ 詳しい (くわしい) précis
++ 状況 (じょうきょう) circonstances
+
+*** Algunos policías nos vieron...
+
+#+begin_src translate :src ja :dest fr,es,it
+数名の警察関係者に見られましたが。
+#+end_src
+
+#+RESULTS:
+| fr | Il a été vu par plusieurs policiers.        |
+| es | Fue visto por varios policías.              |
+| it | È stato visto da diversi agenti di polizia. |
+
+#+begin_quote
+Algunos policías nos vieron, pero diría que no hay por qué preocuparse.
+#+end_quote
+
+#+begin_src translate :src ja :dest fr,es,it :results list
+心配ないかと‬
+#+end_src
+
+**** Vocab
++ 白々しい‬ (しらじらしい) baldfaced, plaine pour voir
++ 警察関係者 (けさつ かんけいしゃ) la policía
+
+
+*** Ahora puedes deshacerte de mí en secreto
+
+#+begin_src translate :src ja :dest fr,es,it,ru,el
+私を内密に処理できるというわけか
+#+end_src
+
+#+RESULTS:
+| fr | Vous pouvez me gérer en toute confidentialité |
+| es | Puedes manejarme confidencialmente            |
+| it | Puoi trattarmi in modo confidenziale          |
+| ru | Вы можете обращаться со мной конфиденциально  |
+| el | Μπορείτε να με χειριστείτε εμπιστευτικά       |
+
+#+begin_quote
+Supongo que ahora puedes deshacerte de mí en secreto.
+#+end_quote
+
+**** Vocab:
++ 内密に (ないみつに) en secreto
++ 処理 (しょり) gestion de; règlement
+
+*** Corregí la trajectoria
+
+#+begin_src translate :src ja :dest fr,es,it
+私のシナリオへと‬軌道修正されました。
+#+end_src
+
+#+RESULTS:
+| fr | La trajectoire a été corrigée à mon scénario.        |
+| es | La trayectoria se ha corregido a mi escenario.       |
+| it | La traiettoria è stata corretta per il mio scenario. |
+
+**** Vocab:
++ 軌道修正 (きどうしゅうせい) control signal (control theory)
+
+
+*** Es un vasallo excelente
+
+#+begin_src translate :src ja :dest fr,es,it,ru,el
+優秀な私の臣下です‬。
+#+end_src
+
+#+RESULTS:
+| fr | Je suis un excellent vassal |
+| es | Soy un excelente vasallo    |
+| it | Sono un eccellente vassallo |
+| ru | Я отличный вассал           |
+| el | Είμαι εξαιρετικός υποτελής  |
+
+**** Vocab:
++ 優秀 (ゆうしゅうな) supériorité
++ 臣下 (しんか) vassal
