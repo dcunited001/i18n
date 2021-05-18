@@ -1,0 +1,28 @@
+#+TITLE: Shadow and Bone
+#+AUTHOR: David Conner
+#+DESCRIPTION:
+#+PROPERTY:
+#+STARTUP: content
+
+
+* Shadow and Bone
+
+
+** Episode 4
+
+#+begin_src translate :src ja :dest fr,es,it :results list
+まだ返事をくれない。
+夜襲が激しい。
+#+end_src
+
+#+RESULTS:
+- ("fr" "Je n'ai pas encore reçu de réponse. L'attaque nocturne est intense.")
+- ("es" "No he recibido respuesta todavía. El ataque nocturno es intenso.")
+- ("it" "Non ho ancora ricevuto risposta. L'attacco notturno è intenso.")
+
+vocab:
+
++ 夜襲 (yashuu) un ataque nocturno
++ 激しい (hageshii) è intenso
+
+And just like that! the japanese subs were gone (this is not the first time that subs disappear while I'm watching a show...)

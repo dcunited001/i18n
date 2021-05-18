@@ -3,7 +3,7 @@
 ** Fu allora
 
 The first pages were particularly tough to get through for me: not for the
-difficulty of the italian, but for the breadth of etymological connections
+difficulty of the italian, but for the breadth of etymological connections.
 
 #+begin_src translate :src it :dest fr,es,el,ru,ja
 Fu allora che vidi il Pendolo
