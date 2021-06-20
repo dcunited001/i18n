@@ -1,3 +1,8 @@
+#+TITLE:     i18n
+#+AUTHOR:    David Conner
+#+EMAIL:     noreply@te.xel.io
+#+DESCRIPTION: notes
+
 * Translations
 
 Some notes on translations. I usually did this in a notebook. Now that I can use
@@ -6,7 +11,9 @@ translate, it makes more sense to digitize these efforts.
 
 For now, I am focused on French, Japanese, Spanish, and Italian.
 
-** Motivation behind the process
+** Hacking Your Brain
+
+*** Avoiding The Path of Least Resistence
 
 I don't I watch a lot of tv, but when I do, it's usually anime or netflix with
 foreign languages. I have a hard time with verbal comprehension. What I've found
@@ -19,6 +26,21 @@ english text is available, the subtitles become less salient to my brain.
 Neurologically, the brain is always seeking to minimize investment of physical
 energy, generally. Thus, a process that avoids the possibility of a more
 efficient route to arriving at meaning will facilitate the learning process.
+
+*** Mirrored Subtitles
+
+A much simpler way to try this out: try watching something on netflix in a
+foreign language where you have some experience. Turn the subtitles on in your
+primary language, but mirror your monitor's output or use a literal mirror.
+
+Now your brain can't easily cheat. Whereas the meaning of written words/symbols
+usually bleeds in subconsciously, overcoming the friction presented by the
+mirrored subtitles requires conscious effort for most. This leaves your mind
+more time to focus on the verbal content before your brain begins switching it's
+neural circuits to "energy-saving mode".
+
+... Definitely wierd, but most operating systems are capable of this. So are
+most TV's, despite being nested in the hardware menus.
 
 ** Tools
 
@@ -47,3 +69,20 @@ at the same time. This can be a bit confusing, since subtitles are timed to
 display with whatever the writers want to be on-screen at any given time. Since
 complex grammar doesn't permit every dialogue piece displayed, this creates some
 guesswork.
+
+* Using ob-translate
+
+** TODO create a =translate= snippet that assumes these vars
+** TODO attach values to the above vars
+** TODO clean up the babel block
+
+#+begin_example org
+#+name: lang-src
+#+name: lang-desc
+
+
+#+begin_src translate :src lang-src :dest lang-dest
+What does that word mean?
+#+end_src
+
+#+end_example
